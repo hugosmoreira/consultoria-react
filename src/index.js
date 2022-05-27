@@ -1,17 +1,32 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from 'react'
+import App from './App'
+import { BrowserRouter } from 'react-router-dom'
+import * as serviceWorker from './serviceWorker'
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+// Css
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import '../node_modules/slick-carousel/slick/slick.css'
+import '../node_modules/slick-carousel/slick/slick-theme.css'
+import '../node_modules/animate.css/animate.css'
+import '../node_modules/react-circular-progressbar/dist/styles.css'
+import './assets/css/font-awesome.min.css'
+import './assets/css/flaticon.css'
+import './assets/css/style.css'
+import '../node_modules/react-modal-video/scss/modal-video.scss'
+import { createRoot } from "react-dom/client";
+
+
+const rootElement = document.getElementById("root");
+const root = createRoot(rootElement);
+
 root.render(
-  <React.StrictMode>
+  <BrowserRouter basename={'/demo/react/codingmode/'}>
     <App />
-  </React.StrictMode>
-);
+  </BrowserRouter>,
+  document.getElementById('Coding Mode')
+)
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://bit.ly/CRA-PWA
+serviceWorker.unregister()
