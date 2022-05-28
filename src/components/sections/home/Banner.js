@@ -2,14 +2,14 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Slider from 'react-slick'
 
-import img1 from '../../../assets/img/banner/01.jpg'
-import img2 from '../../../assets/img/banner/02.jpg'
-import img3 from '../../../assets/img/banner/03.jpg'
+import img1 from '../../../assets/img/banner/001.jpg'
+import img2 from '../../../assets/img/banner/002.jpg'
+import img3 from '../../../assets/img/banner/003.jpg'
 
 const bannerpost = [
-    { img: img1, tag: 'business & consulting', title: "Making Difference \n Growth Your Business \n With Modern Ideas", btntext: 'Get Started Now', btntext1: 'Our Services' },
-    { img: img2, tag: 'business & consulting', title: "Making Difference \n Growth Your Business \n With Modern Ideas", btntext: 'Get Started Now', btntext1: 'Our Services' },
-    { img: img3, tag: 'business & consulting', title: "Making Difference \n Growth Your Business \n With Modern Ideas", btntext: 'Get Started Now', btntext1: 'Our Services' },
+    { img: img1, tag: 'Web Development', title: "Improve your \n Software quality \n and Productivity", btntext: 'Get Started Now', btntext1: 'Our Services' },
+    { img: img2, tag: 'Consulting', title: "Making Difference \n Growth Your Business \n With Modern Ideas", btntext: 'Get Started Now', btntext1: 'Our Services' },
+    { img: img3, tag: 'Custom Software', title: "Making Difference \n Growth Your Business \n With Modern Ideas", btntext: 'Get Started Now', btntext1: 'Our Services' },
 ]
 const settings = {
     infinite: true,

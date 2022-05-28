@@ -2,6 +2,7 @@ import React from 'react';
 import NavHelper from '../../helper/NavHelper';
 import { Link } from 'react-router-dom';
 import Navmenu from './Navmenu';
+import logo from '../../assets/img/logo3.png';
 
 class Header extends NavHelper {
     render() {
@@ -16,7 +17,7 @@ class Header extends NavHelper {
                         <div className={`nav-container ${mobileactive}`}>
                             {/* Site Logo */}
                             <div className="site-logo">
-                                <Link to="/"><img src={process.env.PUBLIC_URL + "/assets/img/logo.png"} alt="logo" /></Link>
+                                <Link to="/"><img src={logo} alt="logo" /></Link>
                             </div>
                             {/* Main Menu */}
                             <div className={this.state.togglemethod === true ? 'nav-menu d-lg-flex align-items-center menu-on' : 'nav-menu d-lg-flex align-items-center'}>

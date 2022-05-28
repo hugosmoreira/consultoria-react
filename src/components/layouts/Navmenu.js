@@ -7,53 +7,16 @@ const navigationmenu = [
         linkText: 'Home',
         child: true,
         submenu: [
-            {
-                id: 11,
-                link: '/',
-                linkText: 'Home One'
-            },
-            {
-                id: 12,
-                link: '/hometwo',
-                linkText: 'Home Two'
-            },
-            {
-                id: 13,
-                link: '/homethree',
-                linkText: 'Home Three'
-            },
+          
         ]
     },
     {
         id: 2,
-        linkText: 'Pages',
+        linkText: 'About Us',
         child: true,
+        link: '/about',
         submenu: [
-            {
-                id: 21,
-                link: '/about',
-                linkText: 'About us'
-            },
-            {
-                id: 22,
-                link: '/team',
-                linkText: 'Our Team'
-            },
-            {
-                id: 23,
-                link: '/teamdetail',
-                linkText: 'Team Details'
-            },
-            {
-                id: 24,
-                link: '/careers',
-                linkText: 'Careers'
-            },
-            {
-                id: 25,
-                link: '/faq',
-                linkText: 'FAQ'
-            },
+           
         ]
     },
     {
@@ -61,21 +24,7 @@ const navigationmenu = [
         linkText: 'Services',
         child: true,
         submenu: [
-            {
-                id: 31,
-                link: '/service',
-                linkText: 'Services'
-            },
-            {
-                id: 32,
-                link: '/servicetwo',
-                linkText: 'Services Two'
-            },
-            {
-                id: 33,
-                link: '/servicedetail',
-                linkText: 'Services Details'
-            },
+           
         ]
     },
     {
@@ -83,21 +32,7 @@ const navigationmenu = [
         linkText: 'Blog',
         child: true,
         submenu: [
-            {
-                id: 41,
-                link: '/blogstandard',
-                linkText: 'Blog Standard'
-            },
-            {
-                id: 42,
-                link: '/bloggrid',
-                linkText: 'Blog Grid'
-            },
-            {
-                id: 43,
-                link: '/blogdetail',
-                linkText: 'Blog Details'
-            },
+         
         ]
     },
     {
@@ -105,40 +40,10 @@ const navigationmenu = [
         linkText: 'Portfolio',
         child: true,
         submenu: [
-            {
-                id: 51,
-                link: '/portfolio',
-                linkText: 'Portfolio'
-            },
-            {
-                id: 52,
-                link: '/portfoliotwo',
-                linkText: 'Portfolio Two'
-            },
-            {
-                id: 53,
-                link: '/portfoliodetail',
-                linkText: 'Portfolio Details'
-            },
+            
         ]
     },
-    {
-        id: 6,
-        linkText: 'Shop',
-        child: true,
-        submenu: [
-            {
-                id: 61,
-                link: '/shop',
-                linkText: 'Shop'
-            },
-            {
-                id: 62,
-                link: '/shopdetail',
-                linkText: 'Product Details'
-            },
-        ]
-    },
+   
     {
         id: 7,
         linkText: 'Contact',

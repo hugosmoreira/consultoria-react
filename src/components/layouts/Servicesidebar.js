@@ -11,10 +11,11 @@ const servicelist = [
     { title: 'Product Strategy' },
 ]
 
-export default () => {
 
-    return (
-        <div className="sidebar">
+
+const Servicesidebar = () => {
+  return (
+    <div className="sidebar">
             {/* Services List Widget */}
             <div className="widget cat-widget">
                 <h4 className="widget-title">All Service List</h4>
@@ -41,5 +42,7 @@ export default () => {
                 <Link to="/contact" className="main-btn">Send Message</Link>
             </div>
         </div>
-    )
+  )
 }
+
+export default Servicesidebar

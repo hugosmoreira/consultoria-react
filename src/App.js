@@ -25,7 +25,9 @@ import Careers from './components/pages/Careers'
 import Contact from './components/pages/Contact'
 import Faq from './components/pages/Faq'
 
-export default () => {
+
+
+const App = () => {
   return (
     <Router basename={"/demo/react/codingmode/"}>
       <Preloader />
@@ -54,3 +56,5 @@ export default () => {
     </Router>
   )
 }
+
+export default App

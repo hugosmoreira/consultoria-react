@@ -8635,3 +8635,18 @@ footer.grey-bg-footer .footer-copyright .back-to-top:hover {
 header .header-nav .nav-container.breakpoint-on .nav-menu .menu-items ul li .dd-trigger{
   pointer-events: none;
 }
+
+.site-logo {
+  
+  top: 0;
+  left: 0;
+  width: 200px;
+  height:   100px;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+  
