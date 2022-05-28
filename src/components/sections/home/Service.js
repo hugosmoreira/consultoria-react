@@ -7,9 +7,9 @@ import icon3 from '../../../assets/img/icons/003.png'
 import lines from '../../../assets/img/lines/07.png'
 
 const serviceblock = [
-    { icon: icon1, title: 'Creative Idea', text: 'Sed ut perspiciatis unde omnis iste natus erro volupta' },
-    { icon: icon2, title: 'Business Strategy', text: 'Sed ut perspiciatis unde omnis iste natus erro volupta' },
-    { icon: icon3, title: 'Relationship Buildup', text: 'Sed ut perspiciatis unde omnis iste natus erro volupta' },
+    { icon: icon1, title: 'Software Development', text: 'Our team take care of all the development of your project' },
+    { icon: icon2, title: 'Web & Mobile Development', text: 'Sed ut perspiciatis unde omnis iste natus erro volupta' },
+    { icon: icon3, title: 'Technical Assessment', text: 'You have a big operation and want to make sure you are using the best practices' },
 ]
 
 function Service(props) {

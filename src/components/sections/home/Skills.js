@@ -12,18 +12,14 @@ function Skills(props) {
                         {/* Skill Text Block */}
                         <div className="skill-text">
                             <div className="section-title mb-40 left-border">
-                                <span className="title-tag">Company Skills</span>
-                                <h2 className="title">We Have Experience <br /> For Business Planning</h2>
+                                <span className="title-tag">Company Technologies</span>
+                                <h2 className="title">We Have Experienced <br /> Software Developers</h2>
                             </div>
                             <p>
-                                Sedut perspiciatis unde omnis iste natus error sit voluptat em accusantium doloremque
-                                laudantium, totam raperiaeaque ipsa quae ab illo inventore veritatis et quasi
+                            Web Studio Labs is a Software Boutique focused on delivering the best value for its customers. We started operations in September 2015, working ever since then with the most professional and competent developers we can find.
                             </p>
                             <p>
-                                But I must explain to you how all this mistaken idenouncing pleasure and praising pain was
-                                born and I will give completey account of the system, and expound the actual teachings of
-                                the great explorer of the truth, the master-builder of human happiness one rejects,
-                                dislikes, or avoid
+                            Our specialty is web development using cutting edge new technologies. We are very experienced in delivering all kinds of tech products, such as e-commerce, e-learning, social networks, content management systems and process automation.
                             </p>
                             <Link to="/about" className="main-btn">Learn More</Link>
                         </div>
@@ -50,7 +46,7 @@ function Skills(props) {
                                     </VisibilitySensor>
                                     <i className="flaticon-presentation" />
                                 </div>
-                                <h4 className="title">Business Strategy</h4>
+                                <h4 className="title">Consulting</h4>
                             </div>
                             <div className="chart-box">
                                 <div className="chart">
@@ -72,7 +68,7 @@ function Skills(props) {
                                     </VisibilitySensor>
                                     <i className="flaticon-money-bags" />
                                 </div>
-                                <h4 className="title">Financial Planing</h4>
+                                <h4 className="title">Technical Assessment</h4>
                             </div>
                             <div className="chart-box">
                                 <div className="chart">
@@ -94,7 +90,7 @@ function Skills(props) {
                                     </VisibilitySensor>
                                     <i className="flaticon-invest" />
                                 </div>
-                                <h4 className="title">Marketing Startegy</h4>
+                                <h4 className="title">Web &amp; Mobile Development</h4>
                             </div>
                             <div className="chart-box">
                                 <div className="chart">
@@ -116,7 +112,7 @@ function Skills(props) {
                                     </VisibilitySensor>
                                     <i className="flaticon-connector" />
                                 </div>
-                                <h4 className="title">Relationship Buildup</h4>
+                                <h4 className="title">Software Development</h4>
                             </div>
                         </div>
                     </div>

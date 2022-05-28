@@ -95,16 +95,16 @@ class Footer extends Component {
                                                 <li>
                                                     <Link to="tel:+0123456789">
                                                         <i className="far fa-phone" />
-                                                        +012 (345) 6789
+                                                        +503 (345) 6789
                                                     </Link>
                                                 </li>
                                                 <li>
                                                     <Link to="mailto:support@gmail.com">
                                                         <i className="far fa-envelope-open" />
-                                                        support@gmail.com
+                                                        contact@webstudiolabs.com
                                                     </Link>
                                                 </li>
-                                                <li> <i className="far fa-map-marker-alt" /> Broklyn Street USA</li>
+                                                <li> <i className="far fa-map-marker-alt" /> SE Division Portland</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -128,8 +128,8 @@ class Footer extends Component {
                     </div>
                     <div className="footer-copyright">
                         <p className="copyright-text">
-                            <span>Copy@ <Link to="#">Coding Mode</Link>. Example -2020</span>
-                            <span>All Right Reserved Design By Example</span>
+                            <span>Copy@ <Link to="#">Web Studio Labs</Link>. Example -2022</span>
+                            <span>All Right Reserved Design By Copyright Web Studios Labs LLC</span>
                         </p>
                         <Link to="#" className="back-to-top" onClick={scrollToTop}><i className="far fa-angle-up" /></Link>
                     </div>

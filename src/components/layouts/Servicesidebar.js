@@ -22,7 +22,7 @@ const Servicesidebar = () => {
                 <ul>
                     {servicelist.map((item, i) => (
                         <li key={i}>
-                            <Link to="/servicedetail">Financial Planning <span><i className="far fa-angle-right" /></span></Link>
+                            <Link to="/servicedetail">Web Development <span><i className="far fa-angle-right" /></span></Link>
                         </li>
                     ))}
                 </ul>

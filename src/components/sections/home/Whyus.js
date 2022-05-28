@@ -20,20 +20,20 @@ function Whyus(props) {
                             <div className="wcu-text">
                                 <div className="section-title left-border mb-40">
                                     <span className="title-tag">What We Do</span>
-                                    <h2 className="title">Why Choose Finsa <br /> Business Agency</h2>
+                                    <h2 className="title">Why Choose  <br /> Web Studio Labs</h2>
                                 </div>
                                 <p>
-                                    Sedut perspiciatis unde omnis iste natus evoluptat em accusantium doloremque laudantium
+                                We have worked for small and big companies, offering an assortment of services that range from greenfield project development life cycle to legacy project rescues, nearshore outsourcing, and so on.
                                 </p>
                                 <ul className="wcu-list">
                                     <li>
-                                        <i className="far fa-check-circle" /> Specialist Company Advisor Team
+                                        <i className="far fa-check-circle" /> Experienced Software Engineers  
                                     </li>
                                     <li>
-                                        <i className="far fa-check-circle" /> Understanding Machines OpenS tandard
+                                        <i className="far fa-check-circle" /> Variaty of Technologies
                                     </li>
                                     <li>
-                                        <i className="far fa-check-circle" /> Can Data Visualization Improve Mobile
+                                        <i className="far fa-check-circle" /> Fast &amp; Affordable Development
                                     </li>
                                 </ul>
                                 <Link to="/careers" className="main-btn main-btn-4">Join With Us</Link>

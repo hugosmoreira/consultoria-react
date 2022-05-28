@@ -16,7 +16,7 @@ function About(props) {
                         <div className="about-text">
                             <div className="section-title left-border mb-40">
                                 <span className="title-tag">About Us</span>
-                                <h2 className="title">Professional Business <br /> Guidance Agency </h2>
+                                <h2 className="title">YOUR SOFTWARE  <br /> BOUTIQUE </h2>
                             </div>
                             <p className="mb-25">
                                 Sedut perspiciatis unde omnis iste natus error sit voluptat em accusantium doloremq

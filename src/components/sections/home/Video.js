@@ -21,14 +21,14 @@ function Video(props) {
                             <div className="section-title left-border mb-30">
                                 <span className="title-tag">Watch Videos</span>
                                 <h2 className="title">
-                                    Exclusive Video Presentation <br /> About Recent Project
+                                    Exclusive Video Presentation <br /> About Our Company
                                 </h2>
                             </div>
                             <p>
                                 Ranim ad minima veniam, quis nostrum exercitationem ullam corpsuscipit
                                 laboriosam, nisi ut aliquid exea commodi consequa turuis autem
                             </p>
-                            <Link to="/portfolio" className="main-btn">Need Any Project</Link>
+                            <Link to="/portfolio" className="main-btn">Contact Us</Link>
                         </div>
                     </div>
                     <div className="col-lg-3 col-lg-4 col-md-2 order-1 order-md-2">

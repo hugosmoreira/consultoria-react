@@ -38,8 +38,8 @@ function Testimonials(props) {
                 <div className="row justify-content-center justify-content-lg-start">
                     <div className="col-lg-6 col-md-10 offset-lg-5">
                         <div className="section-title left-border">
-                            <span className="title-tag">Meet Our Advisors</span>
-                            <h2 className="title">We Have An Exclusive <br /> Team Member</h2>
+                            <span className="title-tag">Meet Our Clients</span>
+                            <h2 className="title">Our Clients Testimonials</h2>
                         </div>
                         <Slider className="testimonial-items" ref={sliderRef} id="testimonialSliderOne" {...settings}>
                             {testimonialslide.map((item, i) => (

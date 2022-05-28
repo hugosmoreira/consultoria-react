@@ -15,18 +15,17 @@ function About(props) {
                         <div className="about-text">
                             <div className="section-title left-border mb-40">
                                 <span className="title-tag">About Us</span>
-                                <h2 className="title">Professional Business <br /> Guidance Agency </h2>
+                                <h2 className="title">Web Studio Labs Your <br /> Software Boutique </h2>
                             </div>
                             <p className="mb-25">
-                                Sedut perspiciatis unde omnis iste natus error sit voluptat em accusantium doloremq
-                                laudantium, totam raperiaeaque ipsa quae ab illo inventore veritatis et quasi
+                            Not only have a functional web application in production but also significantly improve your software quality and productivity
                                 </p>
                             <p>
-                                Doloremque laudantium, totam raperiaeaque ipsa quae ab illo inventore veritatis et quasi
+                            As software developers we strive to deliver not only well written code, but code that delivers real value to each client
                                 </p>
                             <ul className="about-list">
-                                <li> <i className="far fa-check" /> Business &amp; Consulting Agency</li>
-                                <li> <i className="far fa-check" /> Awards Winning Business Comapny</li>
+                                <li> <i className="far fa-check" /> Software Development &amp; Consulting Agency</li>
+                                <li> <i className="far fa-check" /> Web &amp; Mobile Development </li>
                             </ul>
                             <Link to="/about" className="main-btn">Learn More</Link>
                         </div>
