@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import img1 from '../../../assets/img/feature/01.jpg'
-import img2 from '../../../assets/img/feature/02.jpg'
-import img3 from '../../../assets/img/feature/03.jpg'
-import img4 from '../../../assets/img/feature/04.jpg'
-import img5 from '../../../assets/img/feature/05.jpg'
-import img6 from '../../../assets/img/feature/06.jpg'
+import img1 from '../../../assets/img/feature/001.jpg'
+import img2 from '../../../assets/img/feature/002.jpg'
+import img3 from '../../../assets/img/feature/003.jpg'
+import img4 from '../../../assets/img/feature/004.jpg'
+import img5 from '../../../assets/img/feature/005.jpg'
+import img6 from '../../../assets/img/feature/006.jpg'
 
 const featuresblock = [
     { img: img1, title: 'Free Consulting', text: 'Join us for consultatoins' },

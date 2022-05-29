@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import illustration from '../../../assets/img/illustration/02.png'
+import illustration from '../../../assets/img/illustration/004.jpg'
 import line1 from '../../../assets/img/lines/03.png'
 import line2 from '../../../assets/img/lines/04.png'
 

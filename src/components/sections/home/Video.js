@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import ModalVideo from 'react-modal-video'
-import videobg from '../../../assets/img/video-bg/video-1.jpg'
+import videobg from '../../../assets/img/video-bg/003.jpg'
 import playicon from '../../../assets/img/icons/play.svg'
 import lines from '../../../assets/img/lines/08.png'
 
