@@ -9,7 +9,7 @@ class Home extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Coding Mode | Homepage</title>
+                    <title>Web Studio Labs | Homepage</title>
                     <meta
                         name="description"
                         content="#"

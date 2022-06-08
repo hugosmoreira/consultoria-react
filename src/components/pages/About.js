@@ -11,7 +11,7 @@ class About extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Coding Mode | About Us</title>
+                    <title>Web Studio Labs | About Us</title>
                     <meta
                         name="description"
                         content="#"

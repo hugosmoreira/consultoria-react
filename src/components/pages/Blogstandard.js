@@ -11,7 +11,7 @@ class Blogstandard extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Coding Mode | Blog Standard</title>
+                    <title>Web Studio Labs | Blog Standard</title>
                     <meta
                         name="description"
                         content="#"

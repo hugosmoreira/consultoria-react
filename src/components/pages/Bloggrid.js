@@ -11,7 +11,7 @@ class Bloggrid extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Coding Mode | Blog Grid</title>
+                    <title>Web Studio Labs | Blog Grid</title>
                     <meta
                         name="description"
                         content="#"

@@ -11,7 +11,7 @@ class Servicedetail extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Coding Mode | Service Detail</title>
+                    <title>Web Studio Labs | Service Detail</title>
                     <meta
                         name="description"
                         content="#"

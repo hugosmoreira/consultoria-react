@@ -11,7 +11,7 @@ class Faq extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Coding Mode | FAQ's</title>
+                    <title>Web Studio Labs | FAQ's</title>
                     <meta
                         name="description"
                         content="#"

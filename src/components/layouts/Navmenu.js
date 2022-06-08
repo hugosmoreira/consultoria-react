@@ -5,7 +5,7 @@ const navigationmenu = [
     {
         id: 1,
         linkText: 'Home',
-        child: true,
+        child: false,
         submenu: [
           
         ]
@@ -13,7 +13,7 @@ const navigationmenu = [
     {
         id: 2,
         linkText: 'About Us',
-        child: true,
+        child: false,
         link: '/about',
         submenu: [
            
@@ -22,7 +22,7 @@ const navigationmenu = [
     {
         id: 3,
         linkText: 'Services',
-        child: true,
+        child: false,
         submenu: [
            
         ]
@@ -30,7 +30,7 @@ const navigationmenu = [
     {
         id: 4,
         linkText: 'Blog',
-        child: true,
+        child: false,
         submenu: [
          
         ]
@@ -38,7 +38,7 @@ const navigationmenu = [
     {
         id: 5,
         linkText: 'Portfolio',
-        child: true,
+        child: false,
         submenu: [
             
         ]

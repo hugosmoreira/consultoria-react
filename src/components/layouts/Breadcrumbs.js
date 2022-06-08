@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom'
 
-import breadcrumbimg from '../../assets/img/breadcrumb.jpg'
+import breadcrumbimg from '../../assets/img/code.jpg'
 
 class Breadcrumbs extends Component {
     render() {

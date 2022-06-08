@@ -70,7 +70,7 @@ class Offcanvas extends Component {
                         <li><Link to="#"><i className="fab fa-twitter" /></Link></li>
                         <li><Link to="#"><i className="fab fa-behance" /></Link></li>
                         <li><Link to="#"><i className="fab fa-linkedin" /></Link></li>
-                        <li><Link to="#"><i className="fab fa-google" /></Link></li>
+                        
                     </ul>
                 </div>
             </Fragment>

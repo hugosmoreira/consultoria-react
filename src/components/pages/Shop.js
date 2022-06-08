@@ -10,7 +10,7 @@ class Shop extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Coding Mode | Shop</title>
+                    <title>Web Studio Labs | Shop</title>
                     <meta
                         name="description"
                         content="#"

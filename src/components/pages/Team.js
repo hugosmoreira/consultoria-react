@@ -11,7 +11,7 @@ class Team extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Coding Mode | Team</title>
+                    <title>Web Studio Labs | Team</title>
                     <meta
                         name="description"
                         content="#"

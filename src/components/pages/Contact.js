@@ -11,7 +11,7 @@ class Contact extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Coding Mode | Contact Us</title>
+                    <title>Web Studio Labs | Contact Us</title>
                     <meta
                         name="description"
                         content="#"

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import illustration from '../../../assets/img/illustration/01.png'
+import illustration from '../../../assets/img/illustration/ai03.jpg'
 
 function About(props) {
     return (
