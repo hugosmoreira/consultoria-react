@@ -1,9 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import img1 from '../../../assets/img/latest-post/01.jpg'
-import img2 from '../../../assets/img/latest-post/02.jpg'
-import img3 from '../../../assets/img/latest-post/03.jpg'
+import img1 from '../../../assets/img/latest-post/001.jpg'
+import img2 from '../../../assets/img/latest-post/002.jpg'
+import img3 from '../../../assets/img/latest-post/003.jpg'
 
 const blogblock = [
     { img: img1, title: 'How Performance Visiblety With GitLab CI And Hood', postdate: '25 Aug 2020', text: 'Sedut perspiciatis unde omnis nat erroroluptat accusantium laudantim totam raperiaeaqupsa quae', linktext: 'Learn More' },

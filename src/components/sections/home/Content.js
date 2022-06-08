@@ -7,7 +7,7 @@ import Counter from './Counter'
 import Features from './Features'
 import Service from './Service'
 import Skills from './Skills'
-import Team from './Team'
+
 import Testimonials from './Testimonials'
 import Video from './Video'
 import Whyus from './Whyus'
@@ -23,7 +23,7 @@ class Content extends Component {
                 <Features />
                 <Whyus />
                 <Counter />
-                <Team />
+                
                 <Skills />
                 <Testimonials />
                 <section className="client-section">

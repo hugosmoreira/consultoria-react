@@ -1,7 +1,7 @@
 import React from 'react'
 import { Tab, Nav } from 'react-bootstrap'
 
-import img from '../../../assets/img/tab-block.jpg'
+import img from '../../../assets/img/code.jpg'
 
 const missiontab = [
     { icon: 'fas fa-check', text: 'There are many variations of passages of LoreIpsum available, but the majority have suffered' },

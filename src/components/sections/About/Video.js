@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import ModalVideo from 'react-modal-video'
 
-import videobg from '../../../assets/img/video-bg/video-2.jpg'
+import videobg from '../../../assets/img/video-bg/003.jpg'
 import line1 from '../../../assets/img/lines/11.png'
 import line2 from '../../../assets/img/lines/12.png'
 

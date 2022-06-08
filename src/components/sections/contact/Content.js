@@ -1,3 +1,4 @@
+/* eslint-disable react/style-prop-object */
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 
@@ -80,7 +81,8 @@ class Content extends Component {
                 </div>
                 <div className="container-fluid container-1600">
                     <div className="contact-map">
-                        <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d91364.00338430358!2d-73.9756152824982!3d40.698190064837625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1598380219280!5m2!1sen!2sbd" style={{ border: 0 }} allowFullScreen aria-hidden="false" tabIndex={0} />
+                        
+                        <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.248342703538!2d-122.62196486693324!3d45.505079171899794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5495a08a0ce32315%3A0xf4ed18ece86e1491!2s4330%20SE%20Division%20St%2C%20Portland%2C%20OR%2097206!5e0!3m2!1sen!2sus!4v1654727027297!5m2!1sen!2sus" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" style={{ border: 0 }} allowFullScreen aria-hidden="false" tabIndex={0} />
                     </div>
                 </div>
             </section>
