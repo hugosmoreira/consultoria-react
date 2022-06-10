@@ -24,15 +24,15 @@ class Content extends Component {
                                         <h2 className="title">Need Any Help For Business &amp; Consulting</h2>
                                     </div>
                                     <p>
-                                        But I must explain to you how all this mistaken idea of denouncing pleasure and praising
-                                        pain was
+                                        We have the compromise to provide the best services to our clients.  
+                                        Solving complex problems are our expertise and we are always ready to help you.
                                     </p>
                                     <ul>
                                         <li className="phone">
                                             <Link to="tel:+0123456789"><i className="far fa-phone" />+012 (345) 6789</Link>
                                         </li>
-                                        <li><i className="far fa-envelope-open" /><Link to="#">support@gmail.com</Link></li>
-                                        <li><i className="far fa-map-marker-alt" />Broklyn Street USA</li>
+                                        <li><i className="far fa-envelope-open" /><Link to="#">contact@webstudiolabs.com</Link></li>
+                                        <li><i className="far fa-map-marker-alt" />Portland Oregon</li>
                                     </ul>
                                 </div>
                             </div>

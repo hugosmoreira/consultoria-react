@@ -6,9 +6,9 @@ import img2 from '../../../assets/img/latest-post/002.jpg'
 import img3 from '../../../assets/img/latest-post/003.jpg'
 
 const blogblock = [
-    { img: img1, title: 'How Performance Visiblety With GitLab CI And Hood', postdate: '25 Aug 2020', text: 'Sedut perspiciatis unde omnis nat erroroluptat accusantium laudantim totam raperiaeaqupsa quae', linktext: 'Learn More' },
-    { img: img2, title: 'Inspired Design Decisions With Max Huber Turne', postdate: '25 Aug 2020', text: 'Sedut perspiciatis unde omnis nat erroroluptat accusantium laudantim totam raperiaeaqupsa quae', linktext: 'Learn More' },
-    { img: img3, title: 'Understanding Machines An Open Standard For', postdate: '25 Aug 2020', text: 'Sedut perspiciatis unde omnis nat erroroluptat accusantium laudantim totam raperiaeaqupsa quae', linktext: 'Learn More' },
+    { img: img1, title: 'What is Artificial Intelligence?', postdate: '25 May 2022', text: 'Artificial Intelligence is a concept that belongs to computing and consists of the ability of machines', linktext: 'Learn More' },
+    { img: img2, title: '8 Examples and Applications of Artificial Intelligence in Business', postdate: '02 Feb 2022', text: 'Today, Artificial Intelligence is used in various industries and segments of society', linktext: 'Learn More' },
+    { img: img3, title: 'How are companies using Artificial Intelligence as a competitive advantage?', postdate: '13 May 2022', text: 'Artificial Intelligence is present in many sectors and industries.', linktext: 'Learn More' },
 ]
 
 function Blog(props) {
