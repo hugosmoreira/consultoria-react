@@ -20,20 +20,20 @@ function Whyus(props) {
                             <div className="wcu-text">
                                 <div className="section-title left-border mb-40">
                                     <span className="title-tag">What We Do</span>
-                                    <h2 className="title">Why Choose  <br /> Web Studio Labs</h2>
+                                    <h2 className="title">Why Choose  <br /> Leadfy</h2>
                                 </div>
                                 <p>
-                                We have worked for small and big companies, offering an assortment of services that range from greenfield project development life cycle to legacy project rescues, nearshore outsourcing, and so on.
+                                We can give you the best types of leads for your business.
                                 </p>
                                 <ul className="wcu-list">
                                     <li>
-                                        <i className="far fa-check-circle" /> Experienced Software Engineers  
+                                        <i className="far fa-check-circle" /> Ledas from Any Company on Linkedin
                                     </li>
                                     <li>
-                                        <i className="far fa-check-circle" /> Variaty of Technologies
+                                        <i className="far fa-check-circle" /> Easy contant with your clients
                                     </li>
                                     <li>
-                                        <i className="far fa-check-circle" /> Fast &amp; Affordable Development
+                                        <i className="far fa-check-circle" /> Fast &amp; Leads ready for use
                                     </li>
                                 </ul>
                                 <Link to="/careers" className="main-btn main-btn-4">Join With Us</Link>

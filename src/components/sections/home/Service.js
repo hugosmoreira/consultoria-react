@@ -19,7 +19,7 @@ function Service(props) {
                 {/* Section Title */}
                 <div className="section-title text-center both-border mb-30">
                     <span className="title-tag">Comany Services</span>
-                    <h2 className="title">We Provide Most Exclusive <br /> Service For Business</h2>
+                    <h2 className="title">We Provide Leads for Any Type of Business <br /> Leads from digital companies</h2>
                 </div>
                 {/* Services Boxes */}
                 <div className="row service-boxes justify-content-center">
