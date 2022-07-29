@@ -8,7 +8,7 @@ import img3 from '../../../assets/img/latest-post/03.jpg'
 import img4 from '../../../assets/img/latest-post/04.jpg'
 
 const blogslide = [
-    { img: img1, title: 'How Performance Visiblety With GitLab CI & Hood', postdate: '25 Aug 2020', urltext: 'Learn More' },
+    { img: img1, title: 'How Leads Help Increase your Income    ', postdate: '25 Aug 2020', urltext: 'Learn More' },
     { img: img2, title: 'Inspired Design Decisions With Max Huber Turne', postdate: '25 Aug 2020', urltext: 'Learn More' },
     { img: img3, title: 'Understandin Machine An Open Standard For', postdate: '25 Aug 2020', urltext: 'Learn More' },
     { img: img4, title: 'Inspired Design Decisionse With Max Turning Say', postdate: '25 Aug 2020', urltext: 'Learn More' },
