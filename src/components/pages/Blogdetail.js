@@ -11,7 +11,7 @@ class Blogdetail extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Web Studio Labs | Blog Detail</title>
+                    <title>Leadfy | Blog Detail</title>
                     <meta
                         name="description"
                         content="#"

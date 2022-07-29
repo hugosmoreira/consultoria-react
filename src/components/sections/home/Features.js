@@ -23,7 +23,7 @@ function Features(props) {
             <div className="container">
                 <div className="section-title text-center both-border mb-50">
                     <span className="title-tag"> Our Core Features </span>
-                    <h2 className="title">We Are Specialist For Many <br /> Business Solutions</h2>
+                    <h2 className="title">We Are Specialist For <br /> Business Leads</h2>
                 </div>
                 {/* Feature boxes */}
                 <div className="feature-boxes row justify-content-center">

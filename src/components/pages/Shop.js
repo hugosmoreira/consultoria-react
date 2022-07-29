@@ -10,7 +10,7 @@ class Shop extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Web Studio Labs | Shop</title>
+                    <title>Leadfy | Shop</title>
                     <meta
                         name="description"
                         content="#"

@@ -11,10 +11,10 @@ import img6 from '../../../assets/img/feature/06.jpg'
 const featuresblock = [
     { img: img1, title: 'Free Consulting', text: 'Join us for consultatoins' },
     { img: img2, title: 'Business Growth', text: 'Join us for consultatoins' },
-    { img: img3, title: 'IT Consulting', text: 'Join us for consultatoins' },
-    { img: img4, title: 'Investment Plan', text: 'Join us for consultatoins' },
-    { img: img5, title: 'Financial Planning', text: 'Join us for consultatoins' },
-    { img: img6, title: 'Relationship', text: 'Join us for consultatoins' },
+    { img: img3, title: 'Ledas for Sale', text: 'Join us for consultatoins' },
+    { img: img4, title: 'Sales Plan', text: 'Join us for consultatoins' },
+    { img: img5, title: 'Cold Email ', text: 'Join us for consultatoins' },
+    { img: img6, title: 'Cold Calls Planning', text: 'Join us for consultatoins' },
 ]
 
 function Features(props) {

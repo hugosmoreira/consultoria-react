@@ -10,7 +10,7 @@ class Hometwo extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Web Studio Labs | Homepage</title>
+                    <title>Leadfy | Homepage</title>
                     <meta
                         name="description"
                         content="#"

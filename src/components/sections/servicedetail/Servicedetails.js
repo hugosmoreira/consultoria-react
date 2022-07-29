@@ -16,7 +16,7 @@ function Servicedetails(props) {
                             <div className="main-thumb mb-40">
                                 <img src={servicebanner} alt="" />
                             </div>
-                            <h2 className="title">Financial Planning</h2>
+                            <h2 className="title">Leads for Sales and Cold Emails</h2>
                             <p>
                                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
                                 laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi

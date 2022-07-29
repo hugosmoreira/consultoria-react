@@ -10,7 +10,7 @@ class Productdetail extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Web Studio Labs | Shop Detail</title>
+                    <title>Leadfy | Shop Detail</title>
                     <meta
                         name="description"
                         content="#"

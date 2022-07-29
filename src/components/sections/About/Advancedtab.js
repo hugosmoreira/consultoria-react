@@ -58,7 +58,7 @@ function Advancedtab(props) {
                                         </div>
                                         <div className="col-lg-6 col-md-10">
                                             <div className="block-text">
-                                                <h2 className="title">Professional Business Guidance Agency</h2>
+                                                <h2 className="title">Professional Business Leads Agency</h2>
                                                 <p>
                                                     Sedut perspiciatis unde omnis iste natus error sit voluptat em accusantium
                                                     doloremque laudantium, totam raperiaeaque ipsa quae ab illo inventore
@@ -82,7 +82,7 @@ function Advancedtab(props) {
                                     <div className="row align-items-center justify-content-center">
                                         <div className="col-lg-6 col-md-10 order-2 order-lg-1">
                                             <div className="block-text">
-                                                <h2 className="title">Professional Business Guidance Agency</h2>
+                                                <h2 className="title">Professional Business Leads Agency</h2>
                                                 <p>
                                                     Sedut perspiciatis unde omnis iste natus error sit voluptat em accusantium
                                                     doloremque laudantium, totam raperiaeaque ipsa quae ab illo inventore
@@ -116,7 +116,7 @@ function Advancedtab(props) {
                                         </div>
                                         <div className="col-lg-6 col-md-10">
                                             <div className="block-text">
-                                                <h2 className="title">Professional Business Guidance Agency</h2>
+                                                <h2 className="title">Professional Business Leads Agency</h2>
                                                 <p>
                                                     Sedut perspiciatis unde omnis iste natus error sit voluptat em accusantium
                                                     doloremque laudantium, totam raperiaeaque ipsa quae ab illo inventore
@@ -140,7 +140,7 @@ function Advancedtab(props) {
                                     <div className="row align-items-center justify-content-center">
                                         <div className="col-lg-6 col-md-10 order-2 order-lg-1">
                                             <div className="block-text">
-                                                <h2 className="title">Professional Business Guidance Agency</h2>
+                                                <h2 className="title">Professional Business Leads Agency</h2>
                                                 <p>
                                                     Sedut perspiciatis unde omnis iste natus error sit voluptat em accusantium
                                                     doloremque laudantium, totam raperiaeaque ipsa quae ab illo inventore

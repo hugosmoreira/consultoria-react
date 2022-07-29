@@ -11,7 +11,7 @@ class Portfoliotwo extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Web Studio Labs | Portfolio</title>
+                    <title>Leadfy | Portfolio</title>
                     <meta
                         name="description"
                         content="#"

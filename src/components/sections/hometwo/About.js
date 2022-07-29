@@ -33,7 +33,7 @@ function About(props) {
                         <div className="about-text-two">
                             <div className="section-title left-border mb-40">
                                 <span className="title-tag">About Us</span>
-                                <h2 className="title">Professional Business Guidance Agency </h2>
+                                <h2 className="title">Professional Business Leads Agency </h2>
                             </div>
                             <p>
                                 Sedut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque

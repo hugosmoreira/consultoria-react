@@ -13,13 +13,13 @@ function Skills(props) {
                         <div className="skill-text">
                             <div className="section-title mb-40 left-border">
                                 <span className="title-tag">Company Technologies</span>
-                                <h2 className="title">We Have Experienced <br /> Software Developers</h2>
+                                <h2 className="title">We Have Many Resources <br /> of Business Leads</h2>
                             </div>
                             <p>
-                            Web Studio Labs is a Software Boutique focused on delivering the best value for its customers. We started operations in September 2015, working ever since then with the most professional and competent developers we can find.
+                            Leadfy is a Software that generated leads from the biggest digital companies in the market and its focused on delivering the best value for its customers. 
                             </p>
                             <p>
-                            Our specialty is web development using cutting edge new technologies. We are very experienced in delivering all kinds of tech products, such as e-commerce, e-learning, social networks, content management systems and process automation.
+                            Our specialty is find the best leads for your business using cutting edge new technologies. We are very experienced in delivering all kinds of tech leads, such as e-commerce, e-learning, social networks, content management systems and process automation.
                             </p>
                             <Link to="/about" className="main-btn">Learn More</Link>
                         </div>

@@ -5,7 +5,7 @@ import processbg1 from '../../../assets/img/video-bg/01.jpg'
 import processbg2 from '../../../assets/img/video-bg/02.jpg'
 
 const processlist = [
-    { icon: 'fal fa-coffee', number: '01', title: 'Have A Coffee', text: 'Doloremque laudantium totam raperiaeaqu ipsa quae ab illo inventore veritatis etquasi' },
+    { icon: 'fal fa-coffee', number: '01', title: 'Increase Sales', text: 'Doloremque laudantium totam raperiaeaqu ipsa quae ab illo inventore veritatis etquasi' },
     { icon: 'fal fa-coffee', number: '02', title: 'Meet With Advisors', text: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantiumdoloremque' },
     { icon: 'fal fa-coffee', number: '03', title: 'Achieve Your Goals', text: 'Quis autem vel eum iure reprehenderit qui ieas voluptate velit esse quam nihil mole' },
 ]

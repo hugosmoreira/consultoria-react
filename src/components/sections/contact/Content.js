@@ -21,7 +21,7 @@ class Content extends Component {
                                 <div className="contact-info-content">
                                     <div className="section-title left-border mb-40">
                                         <span className="title-tag">Get In Touch</span>
-                                        <h2 className="title">Need Any Help For Business &amp; Consulting</h2>
+                                        <h2 className="title">Need Any Help For Leads &amp; Consulting</h2>
                                     </div>
                                     <p>
                                         We have the compromise to provide the best services to our clients.  
@@ -31,7 +31,7 @@ class Content extends Component {
                                         <li className="phone">
                                             <Link to="tel:+0123456789"><i className="far fa-phone" />+012 (345) 6789</Link>
                                         </li>
-                                        <li><i className="far fa-envelope-open" /><Link to="#">contact@webstudiolabs.com</Link></li>
+                                        <li><i className="far fa-envelope-open" /><Link to="#">contact@getleadfy.com</Link></li>
                                         <li><i className="far fa-map-marker-alt" />Portland Oregon</li>
                                     </ul>
                                 </div>

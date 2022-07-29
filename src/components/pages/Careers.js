@@ -11,7 +11,7 @@ class Careers extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Web Studio Labs | Careers</title>
+                    <title>Leadfy | Careers</title>
                     <meta
                         name="description"
                         content="#"

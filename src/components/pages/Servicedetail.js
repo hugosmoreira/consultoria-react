@@ -11,7 +11,7 @@ class Servicedetail extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Web Studio Labs | Service Detail</title>
+                    <title>Leadfy | Service Detail</title>
                     <meta
                         name="description"
                         content="#"

@@ -11,7 +11,7 @@ class Team extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Web Studio Labs | Team</title>
+                    <title>Leadfy | Team</title>
                     <meta
                         name="description"
                         content="#"

@@ -13,7 +13,7 @@ function Cta(props) {
                             <div className="cta-content text-center">
                                 <div className="section-title both-border mb-30">
                                     <span className="title-tag">Get A Quote</span>
-                                    <h2 className="title">Feel Any Project For Business Consulting Get Started Us</h2>
+                                    <h2 className="title">Get More Sales From our Leads</h2>
                                 </div>
                                 <Link to="/contact" className="main-btn main-btn-3">Get Started</Link>
                             </div>
